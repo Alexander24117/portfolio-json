@@ -30,7 +30,7 @@
       {
         "name": "Idependiente",
         "position": "Desarrollador Full Stack",
-        "startDate": "2021-01-31",
+        "startDate": "2023-01-31",
         "endDate": null,
         "highlights": [],
         "summary": "Desarrollo de aplicaciones moviles y web, utilizando tecnologias como React Native, JavaScript, Node.js, Java, Spring, PHP, Flight y RESTful APIs. He trabajado en proyectos de desarrollo de software como Tuintichat Xtreme y su redsocial",
@@ -124,6 +124,11 @@
         "keywords": []
       },
       {
+        "name": "Angular",
+        "level": "",
+        "keywords": []
+      },
+      {
         "name": "JavaScript",
         "level": "",
         "keywords": []
@@ -145,11 +150,6 @@
       },
       {
         "name": "GitHub",
-        "level": "",
-        "keywords": []
-      },
-      {
-        "name": "Communication",
         "level": "",
         "keywords": []
       },
@@ -181,7 +181,7 @@
       },
       {
         "language": "en",
-        "fluency": "Native Speaker"
+        "fluency": "Intermediate"
       }
     ],
     "interests": [],
