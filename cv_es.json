@@ -1,0 +1,246 @@
+{
+    "basics": {
+      "name": "Elverth Alexander Pulido González",
+      "label": "Ingeniero de Sistemas Full Stack especializado en Desarrollo Móvil y Backend",
+      "image": "/profile.webp",
+      "email": "Alexth117@hotmail.com",
+      "phone": "573176829016",
+      "url": "",
+      "summary": "Desarrollador de Software apasionado por la creación de soluciones tecnológicas. Mi enfoque principal ha sido el desarrollo de software en tecnologias tales como React Navite, JavaScript, Node.js, Java, Spring y RESTful APIs. Me destaco por mi capacidad para trabajar en equipo. Creo en la colaboración y la comunicación efectiva como clave para el éxito en proyectos tecnológicos. Estoy buscando oportunidades que me permitan aplicar mis conocimientos y habilidades en el desarrollo de proyectos desafiantes y de impacto.",
+      "location": {
+        "countryCode": "ES",
+        "address": "",
+        "city": "Ibagué Tolima",
+        "region": "Colombia"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "alexander-pulido024",
+          "url": "https://www.linkedin.com/in/alexander-pulido024/"
+        },
+        {
+          "network": "GitHub",
+          "username": "Alexander24117",
+          "url": "https://github.com/Alexander24117"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Idependiente",
+        "position": "Desarrollador Full Stack",
+        "startDate": "2023-01-31",
+        "endDate": null,
+        "highlights": [],
+        "summary": "Desarrollo de aplicaciones moviles y web, utilizando tecnologias como React Native, JavaScript, Node.js, Java, Spring, PHP, Flight y RESTful APIs. He trabajado en proyectos de desarrollo de software como Tuintichat Xtreme y su redsocial",
+        "url": "",
+        "location": "Colombia"
+      },
+      {
+        "name": "SEAPTO S.A. GanaGana",
+        "position": "Developer",
+        "startDate": "2022-08-31",
+        "endDate": "2023-05-31",
+        "highlights": [],
+        "summary": "Diseñé y desarrollé una plataforma de gestion de rentas y la api reemplazando la antigua plataforma de gestion de rentas, la cual permitio a la empresa gestionar de manera mas eficiente los arriendos de los locales comerciales.",
+        "url": "https://www.linkedin.com/company/68124108",
+        "location": "Colombia"
+      }
+    ],
+    "volunteer": [],
+    "education": [
+      {
+        "institution": "Universidad de Ibagué",
+        "area": "Systems Engineering",
+        "studyType": "Bachelor's Degree",
+        "startDate": "2018-01-31",
+        "endDate": "2023-11-30",
+        "score": "",
+        "courses": []
+      }
+    ],
+    "awards": [],
+    "certificates": [
+      {
+        "name": "Curso Básico de Programación con C#",
+        "issuer": "Platzi",
+        "startDate": "2023-10-31",
+        "url": "https://platzi.com/p/Alexander117/curso/3086-csharp/diploma/detalle/"
+      },
+      {
+        "name": "Curso de Fundamentos de Bases de Datos",
+        "issuer": "Platzi",
+        "startDate": "2023-01-31",
+        "url": "https://platzi.com/p/Alexander117/curso/1566-course/diploma/detalle/"
+      },
+      {
+        "name": "Curso de Introducción a React Native",
+        "issuer": "Platzi",
+        "startDate": "2023-01-31",
+        "url": "https://platzi.com/p/Alexander117/curso/2556-react-native/diploma/detalle/"
+      },
+      {
+        "name": "Desarrollo Backend con Java",
+        "issuer": "Platzi",
+        "startDate": "2022-11-30",
+        "url": "https://platzi.com/p/Alexander117/ruta/44-desarrollo-java/diploma/detalle/"
+      },
+      {
+        "name": "Curso de Backend con Node.js: API REST con Express.js",
+        "issuer": "Platzi",
+        "startDate": "2022-10-31",
+        "url": "https://platzi.com/p/Alexander117/curso/2485-backend-nodejs/diploma/detalle/"
+      },
+      {
+        "name": "Curso Avanzado de Java SE",
+        "issuer": "Platzi",
+        "startDate": "2022-04-30",
+        "url": "https://platzi.com/p/Alexander117/curso/1236-java-avanzado/diploma/detalle/"
+      },
+      {
+        "name": "Curso de Java Spring",
+        "issuer": "Platzi",
+        "startDate": "2022-03-31",
+        "url": "https://platzi.com/p/Alexander117/curso/1996-java-spring/diploma/detalle/"
+      },
+      {
+        "name": "Curso Profesional de Git y GitHub",
+        "issuer": "Platzi",
+        "startDate": "2021-12-31",
+        "url": "https://platzi.com/p/Alexander117/curso/1557-git-github/diploma/detalle/"
+      },
+      {
+        "name": "Curso de Fundamentos de Java Spring Boot",
+        "issuer": "Platzi",
+        "startDate": "2021-10-31",
+        "url": "https://platzi.com/p/Alexander117/curso/2317-spring-boot/diploma/detalle/"
+      }
+    ],
+    "publications": [],
+    "skills": [
+      {
+        "name": "React Native",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "PHP",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Angular",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "JavaScript",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Node",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Spring Boot",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Git",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "GitHub",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Java",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "C#",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "MySQL",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Software Design",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Linux",
+        "level": "",
+        "keywords": []
+      }
+    ],
+    "languages": [
+      {
+        "language": "es",
+        "fluency": "Native Speaker"
+      },
+      {
+        "language": "en",
+        "fluency": "Intermediate (B1+)"
+      }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [
+      {
+        "name": "Tuintichat Xtreme",
+        "isActive": true,
+        "description": "app movil para delivery de paquetes en tiempo real, usando React Native",
+        "highlights": [
+          "En desarrollo",
+          "Enfocado en la entrega de paquetes en tiempo real",
+          "Uso de tecnologias como React Native, Expo, Google Maps API, PHP, Flight, MariaDB"
+        ],
+        "url": "https://github.com/Alexander24117/tuintichatxtreme"
+      },
+      {
+      "name": "Arriendos FT",
+      "isActive": false,
+      "description": "proyecto enfocado a la gestion de arriendos en lenguaje Angular.js",
+      "highlights": [
+        "Enfocado en el registro de arriendos",
+        "Calcula el valor de los arriendos que tiene la empresa",
+        "Uso de Angular.js con Angular Material y Bootstrap"
+      ],
+      "url": "https://github.com/themasterlag/Proyecto_arriendos_ft"
+    },
+    {
+      "name": "Arriendos BK",
+      "isActive": false,
+      "description": "proyecto enfocado a la gestion de arriendos en javascript usando Node.js",
+      "highlights": [
+        "API encargada de gestionar los arriendos de la empresa",
+        "Uso de tecnologias como Node.js, Express.js, Sequelize y MySQL"
+      ],
+      "url": "https://github.com/themasterlag/Arriendos_bk"
+    },{
+      "name": "App Torneos",
+      "isActive": false,
+      "description": "proyecto de aplicacion movil enfocado a la gestion de torneos deportivos de la universidad de ibague, usando React Native",
+      "highlights": [
+        "Enfocado en la gestion de torneos deportivos",
+        "Uso de tecnologias como React Native, Expo, PHP y MySQL"
+      ],
+      "url": "https://github.com/Alexander24117/AppTorneos"
+    }],
+    "meta": {
+      "version": "v1.0.0",
+      "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    }
+  }
