@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Elverth Alexander Pulido González",
-    "label": "Ingeniero de Sistemas Full Stack especializado en Desarrollo Móvil y Backend",
+    "label": "Full Stack Systems Engineer with Experience in Mobile and Backend Development",
     "image": "/profile.webp",
     "email": "Alexth117@hotmail.com",
-    "phone": "573176829016",
+    "phone": "3176829016",
     "url": "",
-    "summary": "Desarrollador de Software apasionado por la creación de soluciones tecnológicas. Mi enfoque principal ha sido el desarrollo de software en tecnologias tales como React Navite, JavaScript, Node.js, Java, Spring y RESTful APIs. Me destaco por mi capacidad para trabajar en equipo. Creo en la colaboración y la comunicación efectiva como clave para el éxito en proyectos tecnológicos. Estoy buscando oportunidades que me permitan aplicar mis conocimientos y habilidades en el desarrollo de proyectos desafiantes y de impacto.",
+    "summary": "Software Developer passionate about creating technological solutions. My primary focus has been on software development using technologies such as React Native, Angular, JavaScript, Node.js, PHP, Java, Spring, and RESTful APIs. \nI excel in my ability to work as part of a team. I believe in collaboration and effective communication as key to success in technological projects. I am looking for opportunities that allow me to apply my knowledge and skills in developing challenging and impactful projects.",
     "location": {
       "countryCode": "ES",
       "address": "",
@@ -28,35 +28,25 @@
   },
   "work": [
     {
-      "name": "Supervisa S.A.",
-      "position": "Desarrollador MID",
-      "startDate": "2024-09-15",
-      "endDate": null,
-      "highlights": [],
-      "summary": "Desarrollo de aplicaciones web, utlizando tecnologias como Vue.js y Ruby on Rails. Actualmente trabajo en el desarrollo de la aplicacion Superaccess que se encarga para el control y la administración de accesos. Permitiendo gestionar de manera virtual y remota las visitas de personas y vehículos a todo tipo de edificios, complejos industriales y en general a cualquier instalación que deba soportar un flujo importante de entradas y salidas.",
-      "url": "",
-      "location": "Colombia"
-    },
-    {
-      "name": "Idependiente",
-      "position": "Desarrollador Full Stack",
+      "name": "Freelance",
+      "position": "Full Stack Developer",
       "startDate": "2023-01-31",
       "endDate": null,
       "highlights": [],
-      "summary": "Desarrollo de aplicaciones moviles y web, utilizando tecnologias como React Native, JavaScript, Node.js, Java, Spring, PHP, Flight y RESTful APIs. He trabajado en proyectos de desarrollo de software como Tuintichat Xtreme y su redsocial",
+      "summary": "Development of mobile and web applications using technologies such as React Native, JavaScript, Node.js, Java, Spring, PHP, Flight, and RESTful APIs. Worked on software development projects like Tuintichat Xtreme and its social network.",
       "url": "",
       "location": "Colombia"
-    },
+    },    
     {
       "name": "SEAPTO S.A. GanaGana",
       "position": "Developer",
       "startDate": "2022-08-31",
       "endDate": "2023-05-31",
       "highlights": [],
-      "summary": "Diseñé y desarrollé una plataforma de gestion de rentas y la api reemplazando la antigua plataforma de gestion de rentas, la cual permitio a la empresa gestionar de manera mas eficiente los arriendos de los locales comerciales.",
+      "summary": "Designed and developed a rental management platform and API, replacing the old rental management system. This allowed the company to manage the leasing of commercial spaces more efficiently.",
       "url": "https://www.linkedin.com/company/68124108",
       "location": "Colombia"
-    }
+    }    
   ],
   "volunteer": [],
   "education": [
@@ -207,50 +197,48 @@
   ],
   "interests": [],
   "references": [],
-  "projects": [
-    {
-      "name": "Tuintichat Xtreme",
-      "isActive": false,
-      "description": "app movil para delivery de paquetes en tiempo real, usando React Native",
-      "highlights": [
-        "En desarrollo",
-        "Enfocado en la entrega de paquetes en tiempo real",
-        "Uso de tecnologias como React Native, Expo, Google Maps API, PHP, Flight, MariaDB"
-      ],
-      "url": "https://github.com/Alexander24117/tuintichatxtreme"
-    },
-    {
-      "name": "Arriendos FT",
-      "isActive": false,
-      "description": "proyecto enfocado a la gestion de arriendos en lenguaje Angular.js",
-      "highlights": [
-        "Enfocado en el registro de arriendos",
-        "Calcula el valor de los arriendos que tiene la empresa",
-        "Uso de Angular.js con Angular Material y Bootstrap"
-      ],
-      "url": "https://github.com/themasterlag/Proyecto_arriendos_ft"
-    },
-    {
-      "name": "Arriendos BK",
-      "isActive": false,
-      "description": "proyecto enfocado a la gestion de arriendos en javascript usando Node.js",
-      "highlights": [
-        "API encargada de gestionar los arriendos de la empresa",
-        "Uso de tecnologias como Node.js, Express.js, Sequelize y MySQL"
-      ],
-      "url": "https://github.com/themasterlag/Arriendos_bk"
-    },
-    {
-      "name": "App Torneos",
-      "isActive": false,
-      "description": "proyecto de aplicacion movil enfocado a la gestion de torneos deportivos de la universidad de ibague, usando React Native",
-      "highlights": [
-        "Enfocado en la gestion de torneos deportivos",
-        "Uso de tecnologias como React Native, Expo, PHP y MySQL"
-      ],
-      "url": "https://github.com/Alexander24117/AppTorneos"
-    }
-  ],
+  "projects": [{
+    "name": "Tuintichat Xtreme",
+    "isActive": true,
+    "description": "Mobile app for real-time package delivery using React Native.",
+    "highlights": [
+      "Currently in development",
+      "Focused on real-time package delivery",
+      "Uses technologies such as React Native, Expo, Google Maps API, PHP, Flight, MariaDB"
+    ],
+    "url": ""
+  },
+  {
+    "name": "Arriendos FT",
+    "isActive": false,
+    "description": "Project focused on rental management using Angular.js.",
+    "highlights": [
+      "Focused on rental registration",
+      "Calculates the rental values for the company",
+      "Uses Angular.js with Angular Material and Bootstrap"
+    ],
+    "url": "https://github.com/themasterlag/Proyecto_arriendos_ft"
+  },
+  {
+    "name": "Arriendos BK",
+    "isActive": false,
+    "description": "Project focused on rental management using JavaScript and Node.js.",
+    "highlights": [
+      "API responsible for managing company rentals",
+      "Uses technologies such as Node.js, Express.js, Sequelize, and MySQL"
+    ],
+    "url": "https://github.com/themasterlag/Arriendos_bk"
+  },
+  {
+    "name": "App Torneos",
+    "isActive": false,
+    "description": "Mobile application project focused on managing sports tournaments at Universidad de Ibagué, using React Native.",
+    "highlights": [
+      "Focused on sports tournament management",
+      "Uses technologies such as React Native, Expo, PHP, and MySQL"
+    ],
+    "url": "https://github.com/Alexander24117/AppTorneos"
+  }],
   "meta": {
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
