@@ -28,10 +28,20 @@
   },
   "work": [
     {
-      "name": "Supervos S.A.",
+      "name": "IMADATECH S.A.S.",
+      "position": "Technical Lead",
+      "startDate": "2026-01-15",
+      "endDate": null,
+      "highlights": [],
+      "summary": "Lead the technical area developing automation solutions and software for public and private entities. Work on RPA systems, web applications, and technical proposals using technologies such as Next.js, React, and Tailwind CSS.",
+      "url": "https://www.imadatech.com",
+      "location": "Colombia"
+    },
+    {
+      "name": "Supervisa S.A.",
       "position": "MID Developer",
       "startDate": "2024-09-15",
-      "endDate": null,
+      "endDate": "2026-01-13",
       "highlights": [],
       "summary": "Web application development using technologies such as Vue.js and Ruby on Rails. Currently working on the development of the Superaccess application that manages access control and administration. Allowing virtual and remote management of visitors and vehicles to any type of building, complex industrial and in general any installation that requires a high level of entry and exit flow.",
       "url": "",
@@ -72,6 +82,18 @@
   ],
   "awards": [],
   "certificates": [
+    {
+      "name": "HCCDP-Solution Architectures",
+      "issuer": "Huawei",
+      "startDate": "2026-01-29",
+      "url": ""
+    },
+    {
+      "name": "HCCDP-Cloud Migration",
+      "issuer": "Huawei",
+      "startDate": "2026-03-05",
+      "url": ""
+    },
     {
       "name": "Curso Básico de Programación con C#",
       "issuer": "Platzi",
@@ -193,6 +215,26 @@
       "name": "Linux",
       "level": "",
       "keywords": []
+    },
+    {
+      "name": "Vue",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ruby",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Next.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tailwind",
+      "level": "",
+      "keywords": []
     }
   ],
   "languages": [
@@ -208,6 +250,17 @@
   "interests": [],
   "references": [],
   "projects": [
+    {
+      "name": "RPA Secretary of Mobility of Cali",
+      "isActive": true,
+      "description": "RPA system to automate the processing of Petition Rights for traffic violations for the Secretary of Mobility of Santiago de Cali.",
+      "highlights": [
+        "Automation of traffic petition management workflows",
+        "RPA process monitoring dashboard",
+        "Technologies: Next.js and Tailwind CSS"
+      ],
+      "url": "https://www.rpasdmc.aplicacionesimadatech.com"
+    },
     {
       "name": "Tuintichat Xtreme",
       "isActive": true,
@@ -249,6 +302,17 @@
         "Uses technologies such as React Native, Expo, PHP, and MySQL"
       ],
       "url": "https://github.com/Alexander24117/AppTorneos"
+    },
+    {
+      "name": "Superaccess - Access Control",
+      "isActive": false,
+      "description": "Web platform for access control and biometric enrollment, developed at Supervisa S.A. Allows remote management of visitor and vehicle access.",
+      "highlights": [
+        "ZFC biometric enrollment module",
+        "Virtual management of visits to industrial facilities and buildings",
+        "Technologies: Vue.js and Ruby on Rails"
+      ],
+      "url": "http://zfc.enrolamiento.superaccess.net/"
     }
   ],
   "meta": {

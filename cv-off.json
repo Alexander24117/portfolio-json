@@ -28,6 +28,16 @@
   },
   "work": [
     {
+      "name": "IMADATECH S.A.S.",
+      "position": "Technical Lead",
+      "startDate": "2026-01-15",
+      "endDate": null,
+      "highlights": [],
+      "summary": "Lead the technical area developing automation solutions and software for public and private entities. Work on RPA systems, web applications, and technical proposals using technologies such as Next.js, React, and Tailwind CSS.",
+      "url": "https://www.imadatech.com",
+      "location": "Colombia"
+    },
+    {
       "name": "Freelance",
       "position": "Full Stack Developer",
       "startDate": "2023-01-31",
@@ -62,6 +72,18 @@
   ],
   "awards": [],
   "certificates": [
+    {
+      "name": "HCCDP-Solution Architectures",
+      "issuer": "Huawei",
+      "startDate": "2026-01-29",
+      "url": ""
+    },
+    {
+      "name": "HCCDP-Cloud Migration",
+      "issuer": "Huawei",
+      "startDate": "2026-03-05",
+      "url": ""
+    },
     {
       "name": "Curso Básico de Programación con C#",
       "issuer": "Platzi",
@@ -183,6 +205,26 @@
       "name": "Linux",
       "level": "",
       "keywords": []
+    },
+    {
+      "name": "Vue",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ruby",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Next.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tailwind",
+      "level": "",
+      "keywords": []
     }
   ],
   "languages": [
@@ -197,7 +239,19 @@
   ],
   "interests": [],
   "references": [],
-  "projects": [{
+  "projects": [
+  {
+      "name": "RPA Secretary of Mobility of Cali",
+      "isActive": true,
+      "description": "RPA system to automate the processing of Petition Rights for traffic violations for the Secretary of Mobility of Santiago de Cali.",
+      "highlights": [
+        "Automation of traffic petition management workflows",
+        "RPA process monitoring dashboard",
+        "Technologies: Next.js and Tailwind CSS"
+      ],
+      "url": "https://www.rpasdmc.aplicacionesimadatech.com"
+    },
+  {
     "name": "Tuintichat Xtreme",
     "isActive": true,
     "description": "Mobile app for real-time package delivery using React Native.",
@@ -238,6 +292,17 @@
       "Uses technologies such as React Native, Expo, PHP, and MySQL"
     ],
     "url": "https://github.com/Alexander24117/AppTorneos"
+  },
+  {
+    "name": "Superaccess - Access Control",
+    "isActive": false,
+    "description": "Web platform for access control and biometric enrollment, developed at Supervisa S.A. Allows remote management of visitor and vehicle access.",
+    "highlights": [
+      "ZFC biometric enrollment module",
+      "Virtual management of visits to industrial facilities and buildings",
+      "Technologies: Vue.js and Ruby on Rails"
+    ],
+    "url": "http://zfc.enrolamiento.superaccess.net/"
   }],
   "meta": {
     "version": "v1.0.0",
